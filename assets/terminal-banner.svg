@@ -1,0 +1,19 @@
+<svg width="700" height="190" viewBox="0 0 700 190" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="190" rx="12" fill="#0d1117"/>
+  <rect width="700" height="34" rx="12" fill="#161b22"/>
+  <rect y="22" width="700" height="12" fill="#161b22"/>
+
+  <circle cx="24" cy="17" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="17" r="6" fill="#ffbd2e"/>
+  <circle cx="68" cy="17" r="6" fill="#27c93f"/>
+
+  <text x="350" y="21" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#8b949e" text-anchor="middle">ankit@dev: ~</text>
+
+  <text x="26" y="66" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#7ee787">ankit@dev:~$ <tspan fill="#c9d1d9">whoami</tspan></text>
+  <text x="26" y="92" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="20" font-weight="600" fill="#58a6ff">Ankit Chauhan</text>
+
+  <text x="26" y="126" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#7ee787">ankit@dev:~$ <tspan fill="#c9d1d9">cat role.txt</tspan></text>
+  <text x="26" y="152" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#c9d1d9">Full-Stack Developer · Java / Spring Boot · React / Next.js</text>
+
+  <text x="26" y="178" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#7ee787">ankit@dev:~$ <tspan fill="#484f58">▍</tspan></text>
+</svg>
