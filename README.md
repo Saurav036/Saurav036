@@ -1,12 +1,8 @@
 <div align="center">
 
-<img width="100%" src="assets/terminal-banner.svg" alt="Terminal banner" />
+# Ankit Chauhan
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=7EE787&background=0D1117&center=true&vCenter=true&width=600&lines=Building+Redact+AI+%40+Sproutlogix;Java+%2F+Spring+Boot+%C2%B7+React+%2F+Next.js" alt="Typing SVG" />
-
-<br/>
+**Full-Stack Developer** · Java / Spring Boot · React / Next.js
 
 *Thanks for stopping by — hope your day's going well* 🌿
 
@@ -21,14 +17,14 @@
 
 ## 🧑‍💻 About Me
 
-Full-stack developer building products across web and cloud. Currently working on **Redact AI** (a document redaction platform for healthcare) and **Nexus for Tableau** at Sproutlogix.
+Building products across web and cloud — currently working on **Redact AI** (a document redaction platform for healthcare) and **Nexus for Tableau** at Sproutlogix.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **Currently**
-- 💼 Full-stack developer @ Sproutlogix
+- 💼 @ Sproutlogix
 - 🛠️ Building Redact AI & Nexus for Tableau
 - 🌱 Exploring Kafka, EKS/Karpenter, LLM prompt engineering
 
