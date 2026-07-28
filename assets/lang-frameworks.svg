@@ -1,0 +1,19 @@
+<svg width="660" height="80" viewBox="0 0 660 80" xmlns="http://www.w3.org/2000/svg">
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" x="35" y="8" width="40" height="40"/>
+  <text x="55" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6e7781" text-anchor="middle">Java</text>
+
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" x="145" y="8" width="40" height="40"/>
+  <text x="165" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6e7781" text-anchor="middle">Spring Boot</text>
+
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" x="255" y="8" width="40" height="40"/>
+  <text x="275" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6e7781" text-anchor="middle">TypeScript</text>
+
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" x="365" y="8" width="40" height="40"/>
+  <text x="385" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6e7781" text-anchor="middle">React</text>
+
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" x="475" y="8" width="40" height="40"/>
+  <text x="495" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6e7781" text-anchor="middle">Next.js</text>
+
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" x="585" y="8" width="40" height="40"/>
+  <text x="605" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6e7781" text-anchor="middle">Node.js</text>
+</svg>

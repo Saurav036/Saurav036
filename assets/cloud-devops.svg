@@ -1,0 +1,7 @@
+<svg width="220" height="80" viewBox="0 0 220 80" xmlns="http://www.w3.org/2000/svg">
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" x="35" y="8" width="40" height="40"/>
+  <text x="55" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6e7781" text-anchor="middle">AWS</text>
+
+  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" x="145" y="8" width="40" height="40"/>
+  <text x="165" y="70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#6e7781" text-anchor="middle">Docker</text>
+</svg>
