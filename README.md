@@ -95,5 +95,3 @@ Building products across web and cloud — currently working on **Redact AI** (a
 *Wishing you a calm, productive day ahead* ✨
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:3b82f6,100:1e293b&height=100&section=footer" />
