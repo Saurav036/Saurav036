@@ -47,19 +47,27 @@ Building products across web and cloud — currently working on **Redact AI** (a
 ### Languages & Frameworks
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" height="32" alt="Java"/> <b>Java</b> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="32" height="32" alt="Spring Boot"/> <b>Spring Boot</b> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript"/> <b>TypeScript</b> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32" alt="React"/> <b>React</b> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32" height="32" alt="Next.js"/> <b>Next.js</b> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" height="32" alt="Node.js"/> <b>Node.js</b>
+<span style="white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" height="32" alt="Java"/> <b>Java</b></span> &nbsp;&nbsp;&nbsp;
+<span style="white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="32" height="32" alt="Spring Boot"/> <b>Spring Boot</b></span> &nbsp;&nbsp;&nbsp;
+<span style="white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript"/> <b>TypeScript</b></span> &nbsp;&nbsp;&nbsp;
+<span style="white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32" alt="React"/> <b>React</b></span> &nbsp;&nbsp;&nbsp;
+<span style="white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32" height="32" alt="Next.js"/> <b>Next.js</b></span> &nbsp;&nbsp;&nbsp;
+<span style="white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" height="32" alt="Node.js"/> <b>Node.js</b></span>
 </p>
 
 ### Data & Messaging
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" height="32" alt="PostgreSQL"/> <b>PostgreSQL</b> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" height="32" alt="MongoDB"/> <b>MongoDB</b> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="32" height="32" alt="Kafka"/> <b>Kafka</b>
+<span style="white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" height="32" alt="PostgreSQL"/> <b>PostgreSQL</b></span> &nbsp;&nbsp;&nbsp;
+<span style="white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" height="32" alt="MongoDB"/> <b>MongoDB</b></span> &nbsp;&nbsp;&nbsp;
+<span style="white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="32" height="32" alt="Kafka"/> <b>Kafka</b></span>
 </p>
 
 ### Cloud & DevOps
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="32" height="32" alt="AWS"/> <b>AWS</b> &nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" height="32" alt="Docker"/> <b>Docker</b>
+<span style="white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="32" height="32" alt="AWS"/> <b>AWS</b></span> &nbsp;&nbsp;&nbsp;
+<span style="white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" height="32" alt="Docker"/> <b>Docker</b></span>
 </p>
 
 <br/>
