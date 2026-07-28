@@ -46,12 +46,10 @@ Building products across web and cloud — currently working on **Redact AI** (a
 
 ### Languages & Frameworks
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java&theme=dark"><img src="https://skillicons.dev/icons?i=java&theme=light" height="50"/></picture> &nbsp;&nbsp;&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=spring&theme=dark"><img src="https://skillicons.dev/icons?i=spring&theme=light" height="50"/></picture> &nbsp;&nbsp;&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark"><img src="https://skillicons.dev/icons?i=ts&theme=light" height="50"/></picture> &nbsp;&nbsp;&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react&theme=dark"><img src="https://skillicons.dev/icons?i=react&theme=light" height="50"/></picture> &nbsp;&nbsp;&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs&theme=dark"><img src="https://skillicons.dev/icons?i=nextjs&theme=light" height="50"/></picture> &nbsp;&nbsp;&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs&theme=dark"><img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="50"/></picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,nodejs&theme=dark">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,nodejs&theme=light" height="50"/>
+</picture>
 
 <br/>
 
@@ -61,9 +59,10 @@ Java · Spring Boot · TypeScript · React · Next.js · Node.js
 
 ### Data & Messaging
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres&theme=dark"><img src="https://skillicons.dev/icons?i=postgres&theme=light" height="50"/></picture> &nbsp;&nbsp;&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb&theme=dark"><img src="https://skillicons.dev/icons?i=mongodb&theme=light" height="50"/></picture> &nbsp;&nbsp;&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kafka&theme=dark"><img src="https://skillicons.dev/icons?i=kafka&theme=light" height="50"/></picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,kafka&theme=dark">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,kafka&theme=light" height="50"/>
+</picture>
 
 <br/>
 
@@ -73,8 +72,10 @@ PostgreSQL · MongoDB · Kafka
 
 ### Cloud & DevOps
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws&theme=dark"><img src="https://skillicons.dev/icons?i=aws&theme=light" height="50"/></picture> &nbsp;&nbsp;&nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=dark"><img src="https://skillicons.dev/icons?i=docker&theme=light" height="50"/></picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,docker&theme=dark">
+  <img src="https://skillicons.dev/icons?i=aws,docker&theme=light" height="50"/>
+</picture>
 
 <br/>
 
