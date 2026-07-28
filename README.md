@@ -46,29 +46,39 @@ Building products across web and cloud — currently working on **Redact AI** (a
 
 ### Languages & Frameworks
 
-<p>
-<span style="white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" height="32" alt="Java"/> <b>Java</b></span> &nbsp;&nbsp;&nbsp;
-<span style="white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="32" height="32" alt="Spring Boot"/> <b>Spring Boot</b></span> &nbsp;&nbsp;&nbsp;
-<span style="white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript"/> <b>TypeScript</b></span> &nbsp;&nbsp;&nbsp;
-<span style="white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32" alt="React"/> <b>React</b></span> &nbsp;&nbsp;&nbsp;
-<span style="white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32" height="32" alt="Next.js"/> <b>Next.js</b></span> &nbsp;&nbsp;&nbsp;
-<span style="white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" height="32" alt="Node.js"/> <b>Node.js</b></span>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java&theme=dark"><img src="https://skillicons.dev/icons?i=java&theme=light" height="50"/></picture> &nbsp;&nbsp;&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=spring&theme=dark"><img src="https://skillicons.dev/icons?i=spring&theme=light" height="50"/></picture> &nbsp;&nbsp;&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark"><img src="https://skillicons.dev/icons?i=ts&theme=light" height="50"/></picture> &nbsp;&nbsp;&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react&theme=dark"><img src="https://skillicons.dev/icons?i=react&theme=light" height="50"/></picture> &nbsp;&nbsp;&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs&theme=dark"><img src="https://skillicons.dev/icons?i=nextjs&theme=light" height="50"/></picture> &nbsp;&nbsp;&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs&theme=dark"><img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="50"/></picture>
+
+<br/>
+
+Java · Spring Boot · TypeScript · React · Next.js · Node.js
+
+<br/><br/>
 
 ### Data & Messaging
 
-<p>
-<span style="white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" height="32" alt="PostgreSQL"/> <b>PostgreSQL</b></span> &nbsp;&nbsp;&nbsp;
-<span style="white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" height="32" alt="MongoDB"/> <b>MongoDB</b></span> &nbsp;&nbsp;&nbsp;
-<span style="white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="32" height="32" alt="Kafka"/> <b>Kafka</b></span>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres&theme=dark"><img src="https://skillicons.dev/icons?i=postgres&theme=light" height="50"/></picture> &nbsp;&nbsp;&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb&theme=dark"><img src="https://skillicons.dev/icons?i=mongodb&theme=light" height="50"/></picture> &nbsp;&nbsp;&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kafka&theme=dark"><img src="https://skillicons.dev/icons?i=kafka&theme=light" height="50"/></picture>
+
+<br/>
+
+PostgreSQL · MongoDB · Kafka
+
+<br/><br/>
 
 ### Cloud & DevOps
 
-<p>
-<span style="white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="32" height="32" alt="AWS"/> <b>AWS</b></span> &nbsp;&nbsp;&nbsp;
-<span style="white-space:nowrap;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" height="32" alt="Docker"/> <b>Docker</b></span>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws&theme=dark"><img src="https://skillicons.dev/icons?i=aws&theme=light" height="50"/></picture> &nbsp;&nbsp;&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=dark"><img src="https://skillicons.dev/icons?i=docker&theme=light" height="50"/></picture>
+
+<br/>
+
+AWS · Docker
 
 <br/>
 
